@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Rian+Fernandes+👋;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-<p align="center">Tenho 25 anos, sou engenheiro mecânico. Atualmente estou fazendo um residência de software.</p>&nbsp;
+<p align="center">Tenho 25 anos, sou engenheiro mecânico. Atualmente estou fazendo uma residência de software.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rian-Fernandes&theme=radical&mode=weekly" />
