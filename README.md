@@ -6,7 +6,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rian-Fernandes&theme=radical&mode=weekly" />
-<img width="45%" src="https://github-readme-stats-Rian-Fernandes.vercel.app/api?username=Rian-Fernandesk&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Fernandes&layout=compact&hide_border=true&title_color=9000D3&text_color=F0F8FF&bg_color=000000" alt="Rian's Most Used Languages" />
 
  </div>
 
