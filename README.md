@@ -6,7 +6,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=49% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rian-Fernandes&theme=radical&mode=weekly" />
- <img width="49%" src="https://github-readme-stats-Rian-Fernandes.vercel.app/api?username=Rian-Fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rian-Fernandes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=tokyonight"/>
 
  </div>
 
