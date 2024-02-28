@@ -5,8 +5,9 @@
 <p align="center">Tenho 25 anos, sou engenheiro mecânico. Atualmente estou fazendo uma residência de software.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width="49%" src="https://github-readme-stats-Rian-Fernandes.vercel.app/api?username=Rian-Fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img width=49% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rian-Fernandes&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Rian-Fernandes&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Rian-Fernandes&show_icons=true&theme=radical&layout=compact" />
+
 
  </div>
 
